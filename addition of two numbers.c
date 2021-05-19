@@ -9,5 +9,5 @@ int main()
   return 0;
 }
 
-#sample input : 3 7
+#sample input : 3 4
 #sample output ; 7
