@@ -12,3 +12,12 @@ int main() {
     
     return 0;
 }
+
+
+#Sample Input :
+    
+     3
+
+#Sample Output :
+
+    3 is odd
